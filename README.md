@@ -43,12 +43,3 @@
 
 <img align="right" height="150" src="https://c.tenor.com/iI_qMcExlCAAAAAC/tenor.gif"  />
 
-###
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/x2gut/x2gut/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/x2gut/x2gut/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/x2gut/x2gut/output/pacman-contribution-graph.svg">
-</picture>
-
-###
